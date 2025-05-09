@@ -172,11 +172,53 @@
 
 
 2.
-Let Value one = 18
-Let Value two = 25
+// Let Value one = 18
+// Let Value two = 25
 
 
 // let ValueOne = prompt(Even number)
 // let ValueOne = prompt(Odd number)
 
+// const userNumber = parseInt(prompt("Enter a number"));
 
+// if (userNumber > 0) {
+//     alert(`${userNumber} is a positive number`);
+//     }else if (userNumber === 0){
+//     alert(`${userNumber} is invalid`);
+//     }else if ()
+
+
+    // prompt()
+    // const valueOne  num 1 = parseInt(prompt("Enter a first value"));
+    // const valuetwo = num 2 = parseInt(prompt("Enter a second value"));
+    
+    
+    // if (valueOne > valuetwo){
+    //     alert(`${valueOne}is greater one than ${valuetwo}`);
+    // }else {
+    //     alert(`${valuetwo}is greater than ${valueOne}`);
+    // }
+
+    // alert
+    // prompt("greater of two numbers")
+    
+    prompt
+    
+// let score=parseInt(prompt("display grade"));
+
+//  if(score>75 && score < 100) { 
+//     alert("score is ");}
+// else if(score>69 && score < 100) {
+//      alert("score is B");}
+// else if(score>59 && score < 67) {
+//      alert("score is C");}
+// else if(score>49 && <58) { 
+//     alert("score is D");}
+// else if(score>44-48) {
+//      alert("score is E");}
+// else{ alert("score is F");}
+
+
+let BMI =parseFloat()prompt("")
+console.log(bmi)
+// let score =parseInt
