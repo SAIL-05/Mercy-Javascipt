@@ -222,3 +222,18 @@
 let BMI =parseFloat()prompt("")
 console.log(bmi)
 // let score =parseInt
+
+   
+// let score=parseInt(prompt("display grade"));
+
+//  if(score>75 && score < 100) { 
+//     alert("score is ");}
+// else if(score>69 && score < 100) {
+//      alert("score is B");}
+// else if(score>59 && score < 67) {
+//      alert("score is C");}
+// else if(score>49 && <58) { 
+//     alert("score is D");}
+// else if(score>44-48) {
+//      alert("score is E");}
+// else{ alert("score is F");}
