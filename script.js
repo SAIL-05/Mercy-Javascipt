@@ -237,3 +237,14 @@ console.log(bmi)
 // else if(score>44-48) {
 //      alert("score is E");}
 // else{ alert("score is F");}
+// else if(score>49 && <58) { 
+//     alert("score is D");}
+// else if(score>44-48) {
+//      alert("score is E");}
+// else{ alert("score is F");}
+// else if(score>49 && <58) { 
+//     alert("score is D");}
+// else if(score>44-48) {
+//      alert("score is E");}
+// else{ alert("score is F");}
+
