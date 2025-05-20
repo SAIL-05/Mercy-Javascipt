@@ -445,3 +445,38 @@
 
 // Write a function that returns the longest word in a sentence
 
+// FOR LOOPS
+// To do something multiple times
+// For is a key word in loop
+// for(initializer,conditionals,inrement){
+
+// }
+// if(i < 10)
+// for(let i = 0; i < 10; i++)
+// for (let i = 0; i < 10; i++) {
+//     console.log ('this is the value of i', i);
+    
+// }
+// console.log('we are learning loops')
+
+// for(let startingIndex = 1; startingIndex < 50; startingIndex++) {
+//     if(startingIndex % 2 === 0) {
+//         console.log(startingIndex, 'is an even number')
+//     } else{
+//         console.log(startingIndex, 'is an odd number')
+//     }
+// // }
+
+// for (let i = 5; i <= 20; i+=2 ) {
+//     console.log ('this is the value of i')
+    
+// }
+ let score = [2,4,6,8,10];
+//  console.log(scores[0])
+//  console.log(scores[2])
+//  console.log(scores[4])
+
+for (let i = 0; i < 5; i++) {
+    console.log (score [i])
+    
+}
