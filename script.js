@@ -470,13 +470,18 @@
 // for (let i = 5; i <= 20; i+=2 ) {
 //     console.log ('this is the value of i')
     
-// }
- let score = [2,4,6,8,10];
-//  console.log(scores[0])
-//  console.log(scores[2])
-//  console.log(scores[4])
+// // }
+//  let score = [2,4,6,8,10];
+// //  console.log(scores[0])
+// //  console.log(scores[2])
+// //  console.log(scores[4])
 
-for (let i = 0; i < 5; i++) {
-    console.log (score [i])
+// for (let i = 0; i < 5; i++) {
+//     console.log (score [i])
+    
+// }
+
+for (let i = 1; i <= 50; i++) {
+    console.log(i);
     
 }
